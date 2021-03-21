@@ -1,14 +1,14 @@
 .controls {
   text-align: left;
-  height: 26px;
+  height: 12px;
   position: relative;
-  top: 4px;
+  top: -5px;
   margin-left: 4px;
 
   .consoleCtrl {
     display: inline-block;
-    width: 13px;
-    height: 13px;
+    width: 7px;
+    height: 7px;
     margin: 0 3px;
     border-radius: 50%;
     background: var(--control-default-bg-color);
