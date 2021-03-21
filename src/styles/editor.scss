@@ -3,10 +3,9 @@
   height: calc(100% - 46px);
   padding: 10px 15px;
   overflow-wrap: break-word;
-  overflow-y: scroll;
   outline: none;
   font-family: "Source Code Pro", monospace;
-  font-size: 18px;
+  font-size: 12px;
   line-height: 22px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -40,8 +39,8 @@
       content: "";
       position: absolute;
       top: 2px;
-      width: 10px;
-      height: 22px;
+      width: 5px;
+      height: 13px;
       z-index: 10;
     }
 
