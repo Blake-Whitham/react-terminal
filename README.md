@@ -5,7 +5,7 @@
 <p align="center">🚀 React component that renders a Terminal 🖥</p>
 
 <p align="center">
-  <a href="https://github.com/bony2023/react-terminal/actions?query=Build+and+Test"><img src="https://github.com/bony2023/react-terminal/workflows/Build%20and%20Test/badge.svg" data-canonical-src="https://github.com/bony2023/react-terminal/workflows/Build%20and%20Test/badge.svg"/></a>
+  <a href="https://github.com/Blake-Whitham/react-terminal/actions?query=Build+and+Test"><img src="https://github.com/Blake-Whitham/react-terminal/workflows/Build%20and%20Test/badge.svg" data-canonical-src="https://github.com/Blake-Whitham/react-terminal/workflows/Build%20and%20Test/badge.svg"/></a>
   <a href="https://www.npmjs.com/package/react-terminal"><img src="https://img.shields.io/npm/v/react-terminal/latest" data-canonical-src="https://img.shields.io/npm/v/react-terminal/latest"/></a>
   <img src="https://img.shields.io/npm/l/react-terminal" data-canonical-src="https://img.shields.io/npm/l/react-terminal"/>
 </p>
@@ -44,7 +44,7 @@ import { ReactTerminal } from "react-terminal";
 function MyComponent(props) {
   // Define commands here
   const commands = {
-    whoami: "jackharper",
+    whoami: "HackerMan",
     cd: (directory) => `changed path to ${directory}`
   };
 
@@ -103,4 +103,4 @@ The component comes with few in-built themes: light, dark and dracula. You can c
 | clear | clears the console |
 
 ## Report a bug
-If you found a bug in this library, please file an GitHub issue [here](https://github.com/bony2023/react-terminal/issues).
+If you found a bug in this library, please file an GitHub issue [here](https://github.com/Blake-Whitham/react-terminal/issues).

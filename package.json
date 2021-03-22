@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bony2023/react-terminal.git"
+    "url": "git+https://github.com/Blake-Whitham/react-terminal.git"
   },
   "keywords": [
     "node",
@@ -26,12 +26,12 @@
     "react",
     "terminal"
   ],
-  "author": "Bony Roopchandani",
+  "author": "Blake",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bony2023/react-terminal/issues"
+    "url": "https://github.com/Blake-Whitham/react-terminal/issues"
   },
-  "homepage": "https://github.com/bony2023/react-terminal#readme",
+  "homepage": "https://github.com/Blake-Whitham/react-terminal#readme",
   "devDependencies": {
     "@types/enzyme": "^3.10.4",
     "@types/enzyme-adapter-react-16": "^1.0.5",
