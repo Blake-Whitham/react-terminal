@@ -94,12 +94,12 @@
       }
     }
   }
-
+  &::-webkit-scrollbar {
+    display: none;
+    width: 0;
+  }
   a {
     color: #1a87b5;
   }
 }
-.editor ::-webkit-scrollbar {
-  display: none;
-  width: 0;
-}
+
