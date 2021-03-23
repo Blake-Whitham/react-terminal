@@ -98,8 +98,8 @@
   a {
     color: #1a87b5;
   }
-  body ::-webkit-scrollbar {
-    display: none;
-    width: 0;
-  }
+}
+.editor ::-webkit-scrollbar {
+  display: none;
+  width: 0;
 }
