@@ -1,12 +1,12 @@
 {
-  "name": "@blake-whihtam/react-terminal",
+  "name": "@william-blake-whitham/react-terminal",
   "version": "1.2.0",
   "description": "React component that renders a terminal",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "./node_modules/.bin/cross-env NODE_ENV=production rollup -c",
+    "build": "cross-env NODE_ENV=production rollup -c",
     "watch": "rollup -cw",
     "test": "jest"
   },
@@ -16,10 +16,6 @@
     "package.json",
     "README.md"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Blake-Whitham/react-terminal.git"
-  },
   "keywords": [
     "node",
     "npm",
@@ -103,5 +99,12 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react-device-detect": "^1.11.14"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blake-Whitham/react-terminal.git"
   }
 }
